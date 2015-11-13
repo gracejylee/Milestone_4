@@ -8,8 +8,8 @@ public class CurvesPanel extends JPanel {
 	private int NUM_STEPS;
 
 	// constructor
-	public CurvesPanel(int s) {
-		NUM_STEPS = s;
+	public CurvesPanel(int steps) {
+		NUM_STEPS = steps;
 	}
 
 	@Override
